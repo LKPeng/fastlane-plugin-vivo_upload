@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'l94mNu'
 
   spec.summary       = 'This project is a fastlane plugin'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-vivo_upload"
+  spec.homepage      = "https://github.com/LKPeng/fastlane-plugin-vivo_upload"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
